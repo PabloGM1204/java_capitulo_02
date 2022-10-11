@@ -6,7 +6,7 @@ public class Ejercicio8{
         char c = 'c';
         char d = 'd';
         char e = 'e';
-        // Creo la cadena de caracteres y le asigno el valor de los cinco char
+        // Creo la cadena de caracteres y le asigno el valor de los cinco char, pongo el espacio delante para que no se sumen entre ellos
         String cadena = "" + a + b + c + d + e;
         System.out.println(cadena);
     }
