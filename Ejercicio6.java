@@ -8,5 +8,6 @@ public class Ejercicio6{
         System.out.println("El iva = "+(baseImponible*0.21));
         // Multiplico lo anterior y le sumo la baseImponible para asi poder tener el precio con el iva incluido
         System.out.println("Importe a pagar "+((baseImponible*0.21)+baseImponible));
+        
     }
 }
